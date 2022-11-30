@@ -45,7 +45,7 @@ public class Dados {
 
 
 	public String toString() {
-		return  "Nome = " 
+		return  " Nome = " 
 				+ nome 
 				+ "\n Idade = " 
 				+  idade 
